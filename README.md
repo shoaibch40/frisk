@@ -1,1 +1,1 @@
-# frisk
+# Programming assignment
